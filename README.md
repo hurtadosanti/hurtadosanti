@@ -2,4 +2,4 @@
 
 #python #cpp #cuda #performance #artificialintelligence
 
-![hurtadosanti](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hurtadosanti)
+![hurtadosanti](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hurtadosanti&show-avatar=false&style=--header-bg-color:%23000;--border-radius:0px)
