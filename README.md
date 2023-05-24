@@ -1,3 +1,5 @@
-🌱 Software engineer, especialized in the development of distributed systems deployed on embedded Linux devices. Linux engineer since 2001, and MSc in Systems and Computing Engineering since 2011. 🔭Passionate about software development for the Internet of Things (IoT) focused on applications at the edge
+# Software Engineer | Event Stream Processing | IoT
 
-#java #python #cpp #cuda #MQTT #IoT #performance #artificialintelligence
+I am a software engineer specializing in event stream processing for IoT applications and communication in embedded Linux devices. With a focus on developing distributed systems for real-time data processing and enhancing software development processes, I strive to create scalable and efficient solutions using event-driven architectures for the Internet of Things. My passion lies in ensuring seamless communication and proper execution among embedded Linux devices.
+
+## #java #python #cpp #cuda #EventSystems #IoT #performance #machinelearning
