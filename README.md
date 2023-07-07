@@ -4,4 +4,4 @@ I am a software engineer specializing in event stream processing for IoT applica
 
 My passion lies in ensuring seamless communication and proper execution among embedded Linux devices.
 
-## #python #cpp #cuda #EventSystems #IoT #performance #machinelearning
+## #python #cpp #Streaming #IoT #performance #machinelearning
