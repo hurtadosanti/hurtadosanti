@@ -4,4 +4,4 @@ I am a seasoned professional who specializes in developing enterprise applicatio
 
 My passion lies in ensuring seamless communication and proper execution among embedded Linux devices.
 
-## #python #cpp #Streaming #IoT #performance #machinelearning
+## #python #cpp #streaming #IoT #performance #machinelearning
