@@ -1,4 +1,4 @@
-# Software Engineer | Edge computing Development
+# System Architect | Edge computing Development
 
 Software engineer and architect developing Linux systems at the Edge. I am passionate about innovation and constantly learning new technologies and skills.
 
